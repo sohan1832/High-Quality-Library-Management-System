@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Sohan",
+        "author": "Sohans",
+        "isbn": 50065,
+        "year": 2003,
+        "price": 20,
+        "quantity": 12,
+        "bookAddedAt": "12-12-2024 01:51:04",
+        "bookLastUpdatedAt": ""
+    }
+]
